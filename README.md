@@ -1,8 +1,8 @@
 # NETFrameworkFASQLDep
 ---  
 
-        Timer Trigger Function App making outbound SQL Query  
-        Will need the connection string to complete in the ```App Settings```
+- Timer Trigger Function App making outbound SQL Query  
+- Will need the connection string to complete in the ```App Settings```
 
 ```C#
         private static void ReadOrderData(string connectionString, ILogger log)
