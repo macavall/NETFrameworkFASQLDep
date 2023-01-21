@@ -1,6 +1,6 @@
 # NETFrameworkFASQLDep
----
-    Timer Trigger Function App making outbound SQL Query
+---  
+Timer Trigger Function App making outbound SQL Query
 
 ```C#
         private static void ReadOrderData(string connectionString, ILogger log)
