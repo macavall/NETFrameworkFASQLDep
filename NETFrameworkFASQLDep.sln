@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETFrameworkFASQLDep", "NETFrameworkFASQLDep.csproj", "{8CB5A0A3-8658-4958-9D97-25DA18D9B97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB5A0A3-8658-4958-9D97-25DA18D9B97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB5A0A3-8658-4958-9D97-25DA18D9B97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB5A0A3-8658-4958-9D97-25DA18D9B97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB5A0A3-8658-4958-9D97-25DA18D9B97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598806E2-B6D7-4817-A20D-2D520C91EE1A}
+	EndGlobalSection
+EndGlobal
